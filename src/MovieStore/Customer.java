@@ -3,7 +3,7 @@ package MovieStore;
 import java.util.Enumeration;
 import java.util.Vector;
 
-class Customer {
+public class Customer {
     private final String name;
     private final Vector rentals = new Vector();
 
